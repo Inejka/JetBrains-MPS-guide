@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:e8d11fe6-1d0d-40eb-add7-ddf512ce00e9(CornLanguage.sandbox)/4443152148874373024">
+    <file name="map_Research.java">
+      <node id="4443152148874373024" at="15,42,16,79" concept="1" />
+      <node id="4443152148874373024" at="16,79,17,115" concept="1" />
+      <node id="4443152148874373024" at="20,111,21,27" concept="1" />
+      <node id="4443152148874373024" at="21,27,22,53" concept="1" />
+      <node id="4443152148874373024" at="22,53,23,52" concept="1" />
+      <node id="4443152148874373024" at="23,52,24,27" concept="1" />
+      <node id="4443152148874373024" at="24,27,25,53" concept="1" />
+      <node id="4443152148874373024" at="25,53,26,52" concept="1" />
+      <node id="4443152148874373024" at="26,52,27,27" concept="1" />
+      <node id="4443152148874373024" at="27,27,28,53" concept="1" />
+      <node id="4443152148874373024" at="28,53,29,54" concept="1" />
+      <node id="4443152148874373024" at="29,54,30,27" concept="1" />
+      <node id="4443152148874373024" at="30,27,31,53" concept="1" />
+      <node id="4443152148874373024" at="31,53,32,52" concept="1" />
+      <node id="4443152148874373024" at="32,52,33,27" concept="1" />
+      <node id="4443152148874373024" at="33,27,34,54" concept="1" />
+      <node id="4443152148874373024" at="34,54,35,52" concept="1" />
+      <node id="4443152148874373024" at="35,52,36,62" concept="3" />
+      <node id="4443152148874373024" at="36,62,37,61" concept="3" />
+      <node id="4443152148874373024" at="39,37,40,35" concept="1" />
+      <node id="4443152148874373024" at="44,37,45,34" concept="1" />
+      <node id="4443152148874373024" at="47,7,48,72" concept="1" />
+      <node id="4443152148874373024" at="48,72,49,95" concept="1" />
+      <node id="4443152148874373024" at="49,95,50,96" concept="1" />
+      <node id="4443152148874373024" at="12,0,14,0" concept="0" trace="map_Research#()V" />
+      <node id="4443152148874373024" at="39,0,42,0" concept="2" trace="visit#(Ljava/lang/Integer;)V" />
+      <node id="4443152148874373024" at="44,0,47,0" concept="2" trace="visit#(Ljava/lang/Integer;)V" />
+      <node id="4443152148874373024" at="15,0,19,0" concept="4" trace="main#([Ljava/lang/String;)V" />
+      <node id="4443152148874373024" at="37,61,42,7" concept="1" />
+      <node id="4443152148874373024" at="42,7,47,7" concept="1" />
+      <node id="4443152148874373024" at="20,0,52,0" concept="4" trace="calculate#(ILjava/util/List;Ljava/util/List;)V" />
+      <scope id="4443152148874373024" at="12,25,12,25" />
+      <scope id="4443152148874373024" at="39,37,40,35" />
+      <scope id="4443152148874373024" at="44,37,45,34" />
+      <scope id="4443152148874373024" at="12,0,14,0" />
+      <scope id="4443152148874373024" at="15,42,17,115" />
+      <scope id="4443152148874373024" at="39,0,42,0">
+        <var name="it" id="4443152148874373024" />
+      </scope>
+      <scope id="4443152148874373024" at="44,0,47,0">
+        <var name="it" id="4443152148874373024" />
+      </scope>
+      <scope id="4443152148874373024" at="15,0,19,0">
+        <var name="args" id="4443152148874373024" />
+      </scope>
+      <scope id="4443152148874373024" at="20,111,50,96">
+        <var name="blueDepthsSum" id="4443152148874373024" />
+        <var name="stemLengthsSum" id="4443152148874373024" />
+      </scope>
+      <scope id="4443152148874373024" at="20,0,52,0">
+        <var name="blueDepths" id="4443152148874373024" />
+        <var name="numberOfMeasurements" id="4443152148874373024" />
+        <var name="stemLengths" id="4443152148874373024" />
+      </scope>
+      <unit id="4443152148874373024" at="38,52,42,5" name="CornLanguage.sandbox.map_Research$1" />
+      <unit id="4443152148874373024" at="43,51,47,5" name="CornLanguage.sandbox.map_Research$2" />
+      <unit id="4443152148874373024" at="11,0,53,0" name="CornLanguage.sandbox.map_Research" />
+    </file>
+  </root>
+</debug-info>
+

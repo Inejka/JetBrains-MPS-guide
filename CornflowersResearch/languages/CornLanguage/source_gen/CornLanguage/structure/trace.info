@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,38,0" name="CornLanguage.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,30,0" name="CornLanguage.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="15,0,73,0" name="CornLanguage.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:92ed9d50-c8dd-4c11-a2af-30f3767b2440(CornLanguage.structure)/4443152148874172623">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4443152148874172623" at="12,0,13,0" concept="1" trace="props_CornflowerMeasurement" />
+      <node id="4443152148874172623" at="21,50,22,76" concept="3" />
+      <node id="4443152148874172623" at="22,76,23,55" concept="0" />
+      <node id="4443152148874172623" at="23,55,24,53" concept="0" />
+      <node id="4443152148874172623" at="25,9,26,43" concept="4" />
+      <node id="4443152148874172623" at="20,55,25,9" concept="2" />
+      <scope id="4443152148874172623" at="21,50,24,53">
+        <var name="cpb" id="4443152148874172623" />
+      </scope>
+      <scope id="4443152148874172623" at="20,55,26,43" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4443152148874172623" at="12,0,13,0" concept="5" trace="CornflowerMeasurement" />
+      <node id="4443152148874172623" at="16,116,17,60" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4443152148874172623" at="16,0,17,0" concept="1" trace="myConceptCornflowerMeasurement" />
+      <node id="4443152148874172623" at="39,55,40,46" concept="4" />
+      <node id="4443152148874172623" at="53,79,54,168" concept="3" />
+      <node id="4443152148874172623" at="54,168,55,34" concept="0" />
+      <node id="4443152148874172623" at="55,34,56,99" concept="0" />
+      <node id="4443152148874172623" at="56,99,57,17" concept="0" />
+      <node id="4443152148874172624" at="57,17,58,117" concept="0" />
+      <node id="4443152148874172626" at="58,117,59,116" concept="0" />
+      <node id="4443152148874172623" at="59,116,60,22" concept="4" />
+      <node id="4443152148874172623" at="53,0,62,0" concept="6" trace="createDescriptorForCornflowerMeasurement#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4443152148874172623" at="39,55,40,46" />
+      <scope id="4443152148874172623" at="53,79,60,22">
+        <var name="b" id="4443152148874172623" />
+      </scope>
+      <scope id="4443152148874172623" at="53,0,62,0" />
+    </file>
+  </root>
+  <root nodeRef="r:92ed9d50-c8dd-4c11-a2af-30f3767b2440(CornLanguage.structure)/4443152148874179460">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4443152148874179460" at="13,0,14,0" concept="1" trace="props_Research" />
+      <node id="4443152148874179460" at="28,37,29,76" concept="3" />
+      <node id="4443152148874179460" at="29,76,30,35" concept="0" />
+      <node id="4443152148874179460" at="30,35,31,40" concept="0" />
+      <node id="4443152148874179460" at="32,9,33,30" concept="4" />
+      <node id="4443152148874179460" at="27,42,32,9" concept="2" />
+      <scope id="4443152148874179460" at="28,37,31,40">
+        <var name="cpb" id="4443152148874179460" />
+      </scope>
+      <scope id="4443152148874179460" at="27,42,33,30" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4443152148874179460" at="13,0,14,0" concept="5" trace="Research" />
+      <node id="4443152148874179460" at="17,60,18,47" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4443152148874179460" at="17,0,18,0" concept="1" trace="myConceptResearch" />
+      <node id="4443152148874179460" at="41,42,42,33" concept="4" />
+      <node id="4443152148874179460" at="62,66,63,155" concept="3" />
+      <node id="4443152148874179460" at="63,155,64,33" concept="0" />
+      <node id="4443152148874179460" at="64,33,65,71" concept="0" />
+      <node id="4443152148874179460" at="65,71,66,76" concept="0" />
+      <node id="4443152148874179460" at="66,76,67,99" concept="0" />
+      <node id="4443152148874179460" at="67,99,68,17" concept="0" />
+      <node id="4443152148874179463" at="68,17,69,204" concept="0" />
+      <node id="4443152148874179460" at="69,204,70,22" concept="4" />
+      <node id="4443152148874179460" at="62,0,72,0" concept="6" trace="createDescriptorForResearch#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4443152148874179460" at="41,42,42,33" />
+      <scope id="4443152148874179460" at="62,66,70,22">
+        <var name="b" id="4443152148874179460" />
+      </scope>
+      <scope id="4443152148874179460" at="62,0,72,0" />
+    </file>
+  </root>
+</debug-info>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/CornLanguage/CornLanguage.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/CornLanguage/sandbox/CornLanguage.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
